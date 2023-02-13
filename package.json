@@ -1,0 +1,26 @@
+{
+  "name": "yoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+<<<<<<< HEAD
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 23d29fc58fe43c2328ae76e129c3ebc4762a321c
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+<<<<<<< HEAD
+  
+}
+
+=======
+}
+>>>>>>> 23d29fc58fe43c2328ae76e129c3ebc4762a321c
